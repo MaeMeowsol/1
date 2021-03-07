@@ -7,11 +7,11 @@ I know three languages: English, Dutch, and French.
 I am a self-taught artist and programmer.
 
 Accounts:
-[Discord User](https://discord.com/users/769723790078640168)
+[Discord User](https://discord.com/users/769723790078640168),
 [Discord Server](https://discord.com/invite/ns2CHQ67b3)
 
-[Twitter Main](https://twitter.com/MaeMeowsol)
-[Twitter Alternate](https://twitter.com/MaeAltsol)
+[Twitter Main](https://twitter.com/MaeMeowsol),
+[Twitter Alternate](https://twitter.com/MaeAltsol),
 [Twitter Private](https://twitter.com/MaePrivsol)
 
 [YouTube](https://youtube.com/channel/UCliCYBfY2-Ip-7Q67Vu8m0A)
