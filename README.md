@@ -10,6 +10,7 @@
 
 **40%** of `A` and **40%** of `B` – Question 6 with `A` and `B` only
 
+
 ## Survey Questions
 
 **1 - Would you switch your friends for others if your friends aren't being reciprocal?**
@@ -23,6 +24,7 @@
 **D)** I keep encouraging my friends whenever I can. I'm patient to be there and forgive everything.
 
 
+
 **2 - How do you deal with big life changes?**
 
 **A)** Together with my family and closest friends if it involves them. If I'm alone in this, I have to be faithful to myself.
@@ -32,6 +34,7 @@
 **C)** Regardless of the nature of these changes, you need to be prepared in all areas. If it's good or bad, you must remain positive for both outcomes.
 
 **D)** Carry on. Don't stop doing what has brought you to this point. Keep going, because changes are the result of constant work.
+
 
 
 **3 - According to you, what is the most important value in life to keep in mind?**
@@ -45,6 +48,7 @@
 **D)** Staying in a constant direction, always moving forward.
 
 
+
 **4 - Do you consider yourself a good person/friend?**
 
 **A)** Absolutely. I'm not only a good friend but also as supportive as a family when you need it the most.
@@ -56,6 +60,7 @@
 **D)** I consider myself a good friend because I give my friends the chance to be better with patience. And if I'm not a good one, I can be, even if it takes time.
 
 
+
 **5 - Are you happy?**
 
 **A)** Yes I am. Having loyal friends and being a supportive one yourself AND to yourself helps a lot through life.
@@ -65,6 +70,7 @@
 **C)** It's important to keep yourself balanced. Enjoy the good things and learn from the bad things.
 
 **D)** Yeah, life is though but if you persevere enough you will see the light shine upon you at the end.
+
 
 
 ## Tie Breaker Question
